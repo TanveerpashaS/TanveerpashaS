@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TanveerpashaS
 - 👀 I’m interested in Learning new things and to explore them
-- 🌱 I’m currently Student of Engineering 
+- 🌱 I’m currently Engineering student..
 - 📫 How to reach me via 786tanveers786786@gmail.com
+- Iam very much enthusiast in development and giving ideas for projects..
