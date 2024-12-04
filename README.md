@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @TanveerpashaS<br>👀 I’m interested in Learning new things and to explore them<br>🌱 I’m  a First Year Engineering student, pursuing in REVA UNIVERSITY<br>📫 How to reach me via 786tanveers786786@gmail.com<br>Iam very much enthusiast in development and To learn something new  & to explore new things <br>
+👋 Hi, I’m @TanveerpashaS<br>👀 I’m interested in Learning new things and to explore them<br>🌱 I’m  a Engineering student in REVA UNIVERSITY<br>📫 How to reach me via 786tanveers786786@gmail.com<br>Iam very much enthusiast in development and To learn something new  & to explore new things <br>
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanveer.s__00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tanveer pasha S) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@VEER GAMER) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanveer.s__00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tanveers786) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](www.youtube.com/@veergamer7434) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
