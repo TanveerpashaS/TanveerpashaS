@@ -1,4 +1,5 @@
 # 💫 About Me:
+                                                                    <<< A PASSIONATE DEVELOPER FROM KARNATAKA >>>
 👋 Hi, I’m @TanveerpashaS<br>👀 I’m interested in Learning new things and to exploring them<br>🌱 I’m  a Engineering student in REVA UNIVERSITY<br>📫 How to reach me via 786tanveers786786@gmail.com<br>Iam very much enthusiast in development and To learn something new  &  also to explore new things <br>
 
 
