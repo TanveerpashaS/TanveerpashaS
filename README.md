@@ -5,7 +5,7 @@
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?
 <p align="center"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=&size=35&color=F73529&vCenter=true&width=600&height=100&lines=Hi+I'm+%F0%9F%91%8B%2C+Tanveer+S;Welcome+to+my+github+profile+!!!(https://git.io/typing-svg)"/></p>
 
-👋 Hi, I’m @TanveerpashaS<br>👀 I’m interested in Learning new things and to exploring them<br>🌱 I’m  a Engineering student in REVA UNIVERSITY<br>📫 Reach me via 786tanveers786786@gmail.com<br>Iam very much enthusiast in development and To learn something new  &  also to explore new things <br>
+👋 Hi, I’m @TanveerpashaS<br>👀 I’m interested in Learning new things and also to explore them<br>🌱 I’m  a Engineering student in REVA UNIVERSITY<br>📫 Reach me via 786tanveers786786@gmail.com<br>Iam very much enthusiast in development and To learn something new  &  also to explore new things <br>
 
   <<<  A PASSIONATE DEVELOPER  >>>
 
