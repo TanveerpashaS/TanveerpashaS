@@ -15,10 +15,22 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanveerpashaS&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TanveerpashaS&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerpashaS&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<!-- Contribution Overview -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TanveerpashaS&theme=highcontrast&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&locale=en" alt="Tanveer Pasha S's GitHub stats" />
+</p>
+
+<!-- Streak Tracker -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanveerpashaS&theme=highcontrast&hide_border=false" alt="Tanveer Pasha S's GitHub streak stats" />
+</p>
+
+<!-- Top Languages -->
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerpashaS&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TanveerpashaS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
