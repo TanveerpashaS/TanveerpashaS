@@ -24,7 +24,7 @@
 
 <!-- Streak Tracker -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TanveerpashaS&theme=highcontrast&hide_border=false" alt="Tanveer Pasha S's GitHub streak stats" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=TanveerpashaS&theme=highcontrast&hide_border=false" alt="Tanveer Pasha S's GitHub streak stats" />
 </p>
 
 <!-- Top Languages -->
