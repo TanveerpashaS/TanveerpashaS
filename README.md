@@ -24,5 +24,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=TanveerpashaS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 🔥 Notable Contributions
+- [Styling feature for open-source repo](https://github.com/tanveers00/open-source/pull/1) — merged into upstream
+
+- 
 [![](https://visitcount.itsvg.in/api?id=TanveerpashaS&icon=5&color=11)](https://visitcount.itsvg.in)
 
