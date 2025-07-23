@@ -59,3 +59,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TanveerpashaS&icon=5&color=11)](https://visitcount.itsvg.in)
 
+## 🏆 GitHub Achievements
+
+![Commit Champion](https://img.shields.io/badge/Commits-High%20Activity-blueviolet?style=for-the-badge&logo=github)
+![PR Hero](https://img.shields.io/badge/Pull%20Requests-Consistent%20Contributor-brightgreen?style=for-the-badge&logo=git)
+![Issue Resolver](https://img.shields.io/badge/Issues-Feedback%20Driven-orange?style=for-the-badge&logo=github)
+![Star Collector](https://img.shields.io/badge/Stars-Open%20Source%20Impact-yellow?style=for-the-badge&logo=github)
+![Follower Power](https://img.shields.io/badge/Followers-Growing%20Community-blue?style=for-the-badge&logo=github)
