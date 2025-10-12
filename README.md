@@ -66,3 +66,5 @@
 ![Issue Resolver](https://img.shields.io/badge/Issues-Feedback%20Driven-orange?style=for-the-badge&logo=github)
 ![Star Collector](https://img.shields.io/badge/Stars-Open%20Source%20Impact-yellow?style=for-the-badge&logo=github)
 ![Follower Power](https://img.shields.io/badge/Followers-Growing%20Community-blue?style=for-the-badge&logo=github)
+
+[![An image of @tanveerpashas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tanveerpashas)](https://holopin.io/@tanveerpashas)
