@@ -96,7 +96,7 @@
 </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TanveerpashaS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://trophy.ryglcloud.net/?username=TanveerpashaS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=TanveerpashaS&icon=5&color=11)](https://visitcount.itsvg.in)
 
